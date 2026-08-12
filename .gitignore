@@ -2,3 +2,13 @@
 __pycache__/
 *.pyc
 .env
+
+# Model weights and Hugging Face cache
+*.safetensors
+*.bin
+*.gguf
+*.pt
+*.pth
+model/
+hf-cache/
+.cache/

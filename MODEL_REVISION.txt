@@ -1,0 +1,6 @@
+Model: moonshotai/Kimi-K3
+Revision: 9f62e4e9fffbd0a83ddd60e1c209d828994b3569
+Repository files verified: 118/118
+Weight shards: 96/96
+Checksums: all matched
+Local research copy: /Volumes/Kimi_K3/model
